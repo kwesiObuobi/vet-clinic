@@ -1,14 +1,4 @@
 
-## Getting Started
-
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
-<a name="readme-top"></a>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -22,6 +12,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -33,8 +24,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 **Vet clinic** is a Database of animals, their owners, clinic employees, and visits to the clinic.
 
-## 🛠 Built With <a name="built-with"></a><br/>
-<br>
+## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -60,6 +50,13 @@ This repository includes files with plain SQL that can be used to recreate a dat
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
+This repository includes files with plain SQL that can be used to recreate a database:
+
+- Use [schema.sql](./schema.sql) to create all tables.
+- Use [data.sql](./data.sql) to populate tables with sample data.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+  
 
 To get a local copy up and running, follow these steps.
 <br><br>
@@ -90,6 +87,13 @@ Clone this repository to your desired folder:
 - GitHub: [@kwesi obuobi](https://github.com/kwesiObuobi)
 - Twitter: [@kwesi_obuobi](https://twitter.com/kwesi_obuobi)
 - LinkedIn: [kwesi-obuobi](https://www.linkedin.com/in/kwesi-obuobi/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Records of visits to the clinic**
+- [ ] **Records of animals' owners**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
