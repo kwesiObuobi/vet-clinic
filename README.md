@@ -5,6 +5,7 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Vet Clinic ](#-vet-clinic-)
+  - [ERD](#erd)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -23,6 +24,9 @@
 # 📖 Vet Clinic <a name="about-project"></a>
 
 **Vet clinic** is a Database of animals, their owners, clinic employees, and visits to the clinic.
+
+## ERD
+![Diagram](diagram.png)
 
 ## 🛠 Built With <a name="built-with"></a>
 
